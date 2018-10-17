@@ -10,6 +10,13 @@
     "title": "Einführung in die grammatische Beschreibung des Deutschen",
     "authors": [{"name": "Roland Schäfer"}],
     "publishedAt": "2016-09-14T00:00:00.000Z"
+  },
+  {
+    "versiontype": "third_edition",
+    "title": "Einführung in die grammatische Beschreibung des Deutschen",
+    "authors": [{"name": "Roland Schäfer"}],
+    "publishedAt": "2018-10-17T00:00:00.000Z",
+    "doi": "10.5281/zenodo.1421660"
   }
 ]
 }
